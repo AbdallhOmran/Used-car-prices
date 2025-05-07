@@ -12,7 +12,7 @@ This project is focused on implementing and experimenting with machine learning 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Machine-Learning-Project.git
+    git clone https://github.com/AbdallhOmran/Machine-Learning-Project.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -36,13 +36,10 @@ This project is focused on implementing and experimenting with machine learning 
 
 ## Project Structure
 ```
-Machine-Learning-Project/
-├── data/
-├── models/
-├── notebooks/
-├── src/
-├── requirements.txt
-└── README.md
+├── index.ipynb                  # Main notebook with analysis
+├── autoscout24-germany-dataset.csv       # Dataset file
+├── README.md                             #documentation
+└── imgs/                                 # Visualization outputs
 ```
 
 ## Contributing
